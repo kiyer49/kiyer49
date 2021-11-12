@@ -1,4 +1,5 @@
 ### Hi there 👋
+💻 My name is Karthik Iyer, and I'm a freshman at Georgia Tech, studying Computer Science
 
 <!--
 **kiyer49/kiyer49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

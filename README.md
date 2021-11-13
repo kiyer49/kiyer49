@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%2336BCF7&lines=Hi+there!+My+name's+Karthik!+%F0%9F%91%8B;I'm+a+freshman+at+Georgia+Tech+studying+Computer+Science!++%F0%9F%92%BB;Feel+free+to+learn+more+about+me+and+reach+out!+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%2336BCF7&center=true&lines=Hi+there!+My+name's+Karthik!+%F0%9F%91%8B;I'm+a+freshman+at+Georgia+Tech+studying+Computer+Science!++%F0%9F%92%BB;Feel+free+to+learn+more+about+me+and+reach+out!+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 <!--
 **kiyer49/kiyer49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

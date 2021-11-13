@@ -4,6 +4,11 @@ Hi there! My name is Karthik (he/him), and I'm from the Bay Area, but now am at 
 
 In my free time, I enjoy travelling, watching Netflix, playing board games, and spending time with friends. I'm always looking to meet new people, so feel free to reach out! Otherwise, I hope you enjoy my profile!
 
+<p align="center">
+  <br>
+ <img src="https://user-images.githubusercontent.com/61370204/141598780-7010aff6-d074-419a-a06d-5c9807efed7e.gif">
+</p>
+
 <!--
 **kiyer49/kiyer49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

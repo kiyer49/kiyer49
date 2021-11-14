@@ -2,6 +2,13 @@
 
 Hi there! My name is Karthik (he/him), and I'm orignially from the San Francisco Bay Area, but now studying Computer Science at Georgia Tech. I really enjoy working with data, so I have involved myself in many data science pursuits. You can check out my past projects at [my personal website](heykarthik.com). Outside of data science, I am very passionate about educational equity, and improving access to all forms of education to kids across the globe.
 
+Organizations I'm a part of:
+<a href="https://github.com/gt-big-data">Big Data Big Impact</a>
+<a href="https://robojackets.org/">Robojackets</a>
+<a href="https://www.mentra.me/">Mentra</a>
+<a href="https://datasciencegt.org/">Data Science @ GT</a>
+<a href="https://stemchats.org/">STEMChats</a>
+
 In my free time, I enjoy travelling, watching Netflix, playing board games, and spending time with friends. I'm always looking to meet new people, so feel free to reach out! Otherwise, I hope you enjoy my profile!
 
 <p align="center">

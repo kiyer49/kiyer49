@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%23B3A369&size=200&center=true&vCenter=true&width=7000&height=400&lines=Hi+there!+My+name's+Karthik!+%F0%9F%91%8B;I'm+a+freshman+at+Georgia+Tech+%F0%9F%90%9D+studying+Computer+Science!++%F0%9F%92%BB;Welcome+to+my+Github!+%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+My+name's+Karthik!+%F0%9F%91%8B;I'm+a+junior+at+Georgia+Tech+studying+Computer+Science!+%F0%9F%92%BB+;Welcome+to+my+Github!+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 Hi there! My name is Karthik (he/him), and I'm orignially from the San Francisco Bay Area, but now studying Computer Science at Georgia Tech. I really enjoy working with data, so I have involved myself in many data science pursuits. You can check out my past projects at [my personal website](heykarthik.com). Outside of data science, I am very passionate about educational equity, and improving access to all forms of education to kids across the globe.
 

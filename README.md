@@ -6,13 +6,9 @@ Organizations I'm a part of:
 <br>
 <a href="https://github.com/gt-big-data">Big Data Big Impact</a> - Data Visualization Team Member for the Wildfire Tracking Project
 <br>
-<a href="https://robojackets.org/">Robojackets</a> - Software Team Member for RoboNav
-<br>
 <a href="https://www.mentra.me/">Mentra</a> - Data Visualization Team Member
 <br>
 <a href="https://datasciencegt.org/">Data Science @ GT</a> - Tech Lead for Hacklytics
-<br>
-<a href="https://stemchats.org/">STEMChats</a> - Project Coordinator for STEMchats Institute
 
 In my free time, I enjoy travelling, watching Netflix, playing board games, and spending time with friends. I'm always looking to meet new people, so feel free to reach out! Otherwise, I hope you enjoy my profile!
 
